@@ -8,5 +8,5 @@
 *Italic type of font style*\
 **for bold type of style**\
 ***for both italic and bold styles***\
-[google](www.google.com)
+[google](https://www.google.com/)
 
