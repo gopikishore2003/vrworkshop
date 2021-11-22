@@ -20,5 +20,5 @@
    3. topper
 
 Table 1 | Table 2
-------------------
-NAME    | ROLL NUMBER
+--------|----------
+NAME|ROLL NUMBER
