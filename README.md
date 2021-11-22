@@ -18,3 +18,7 @@
    1. star
    2. prank star
    3. topper
+
+Table 1 | Table 2
+------------------
+NAME    | ROLL NUMBER
