@@ -9,5 +9,4 @@
 **for bold type of style**\
 ***for both italic and bold styles***\
 [google](https://www.google.com/)\
-![msd](https://i.pinimg.com/originals/4a/26/e9/4a26e9394583018a4e05996a301b1ad5.jpg)
-
+![msd](https://images.thequint.com/thequint%2F2021-10%2Fd985b5d5-8851-4d3c-91ab-5b9654819ffc%2FRON_4513__1_.JPG)\
